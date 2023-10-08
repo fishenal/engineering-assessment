@@ -4,7 +4,7 @@
 1. nodejs
 
 ## run api project(nodejs/nest.js)
-1. ```cd api```
+1. ```cd api-app```
 2. ```npm install```
 3. 
 ```bash
